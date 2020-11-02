@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace shared
+namespace Model
 {
     public class WeatherForecast
     {
